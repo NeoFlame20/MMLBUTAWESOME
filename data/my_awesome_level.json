@@ -1,17 +1,14 @@
 {
 	"id": 12345678,
 	"name": "My Awesome Level",
-	"author": "Lucas",
-	"creators": ["Nephryte],
-	"verifier": "YourUsername",
-	"verification": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-	"percentToQualify": 100,
+	"creators": ["Nephryte"],
+	"verifier": "Lucas",
+	"verification": "https://youtu.be/p3Q1Zpw2-3o?si=VQXsR4vVNc_b32KX",
 	"records": [
 		{
-			"user": "PlayerOne",
-			"link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+			"user": "Sylvia",
+			"link": "https://youtu.be/WIY2uZp56Nw?si=Ev_15fcb4RnapTEG",
 			"percent": 100,
-			"hz": 360
 		}
 	]
 }
