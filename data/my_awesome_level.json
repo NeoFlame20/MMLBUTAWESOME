@@ -1,5 +1,4 @@
 {
-	"id": 12345678,
 	"name": "Hopeless Greed",
 	"creators": ["Nephryte"],
 	"verifier": "Lucas",
@@ -8,7 +7,7 @@
 		{
 			"user": "Sylvia",
 			"link": "https://youtu.be/WIY2uZp56Nw?si=Ev_15fcb4RnapTEG",
-			"percent": 100,
+			"percent": 100
 		}
 	]
 }
