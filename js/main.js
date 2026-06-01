@@ -12,7 +12,7 @@ const app = Vue.createApp({
     data: () => ({ store }),
 });
 const router = VueRouter.createRouter({
-    history: VueRouter.createWebHashHistory(('/MMLBUTAWESOME/'),
+    history: VueRouter.createWebHashHistory('/MMLBUTAWESOME/'),
     routes,
 });
 
